@@ -11,5 +11,11 @@
 /db/*.sqlite3
 
 # Ignore all logfiles and tempfiles.
+*.swp
+*~
+.project
+.idea
+*.lst
 /log/*.log
 /tmp
+.DS_Store
